@@ -1,5 +1,6 @@
 # HTTPS-Packet-Analysis-x.com
-![x.com](https://github.com/user-attachments/assets/59a77181-5946-40b0-a7cd-a0b04d79fb6c)
+![x.com](https://github.com/user-attachments/assets/1668c6ec-3c6f-4942-9083-6937bd4b8d22)
+
 
 
 # Junior Network Analyst Report: HTTPS Packet Capture Analysis (x.com)
