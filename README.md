@@ -1,9 +1,5 @@
 # HTTPS-Packet-Analysis-x.com
-
-<img width="1600" height="473" alt="image" src="https://github.com/user-attachments/assets/b257ba49-7475-4e78-a2d6-ffe7b746a79a" />
-
-
-<img width="797" height="398" alt="image" src="https://github.com/user-attachments/assets/c3467cff-f16b-4158-87cb-df5e218af7e6" />
+![x.com](https://github.com/user-attachments/assets/59a77181-5946-40b0-a7cd-a0b04d79fb6c)
 
 
 # Junior Network Analyst Report: HTTPS Packet Capture Analysis (x.com)
@@ -49,11 +45,12 @@ This project analyzes end-to-end network communication when opening a secure HTT
 ## 4. Evidence & Screenshots
 
 ### Wireshark Packet Capture
-![Wireshark Capture]()
+![Wireshark Capture](https://github.com/user-attachments/assets/b257ba49-7475-4e78-a2d6-ffe7b746a79a)
+
 
 ### Frame 23 Header Details
-![Frame Details](<img width="448" height="179" alt="image" src="https://github.com/user-attachments/assets/fc5cf6cf-fc94-4280-9cd5-a831d39d9b29" />
-)
+![Frame Details](https://github.com/user-attachments/assets/bf6821cc-0e5c-4a49-90e1-4c61d18aa60e)
+
 
 ---
 
