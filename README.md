@@ -49,10 +49,11 @@ This project analyzes end-to-end network communication when opening a secure HTT
 ## 4. Evidence & Screenshots
 
 ### Wireshark Packet Capture
-![Wireshark Capture](wireshark_capture.png)
+![Wireshark Capture]()
 
 ### Frame 23 Header Details
-![Frame Details](frame_details.png)
+![Frame Details](<img width="448" height="179" alt="image" src="https://github.com/user-attachments/assets/fc5cf6cf-fc94-4280-9cd5-a831d39d9b29" />
+)
 
 ---
 
